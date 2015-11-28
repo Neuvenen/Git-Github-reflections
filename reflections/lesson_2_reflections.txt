@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates meta data for this repository & make itself ready for further work.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It allows to investigate changes to be included in the commit. You may not wish to commit all changes at once but to separate them.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can check using git diff & git diff --staged commands if only changes belonging to one logical unit are prepared to be commited.
