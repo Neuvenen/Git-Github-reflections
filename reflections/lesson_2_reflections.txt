@@ -21,3 +21,7 @@ They help me to see how far I diverged from main branch, as well as what's alrea
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is that we have all changes on one branch together. We represent them that way because those changes appeared concurently.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros is that you have less work obviously & it should be less prone to human error. Cons is that it can sometimes mess your code.
