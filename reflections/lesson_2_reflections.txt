@@ -13,3 +13,7 @@ I can check using git diff & git diff --staged commands if only changes belongin
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Creating some experimental features, major architectural changes.
+
+How do the diagrams help you visualize the branch structure?
+
+They help me to see how far I diverged from main branch, as well as what's already commited on different branches.
