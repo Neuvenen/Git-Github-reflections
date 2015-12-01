@@ -17,3 +17,7 @@ Creating some experimental features, major architectural changes.
 How do the diagrams help you visualize the branch structure?
 
 They help me to see how far I diverged from main branch, as well as what's already commited on different branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is that we have all changes on one branch together. We represent them that way because those changes appeared concurently.
