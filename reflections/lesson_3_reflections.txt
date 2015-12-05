@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Basically always if I have acces to private & public repos. With privates I can work on something I don't want to share.
+This way I have always backup of my files on server. Same with public ones. For both types however it makes easier working with others.
