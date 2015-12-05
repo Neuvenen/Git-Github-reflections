@@ -6,3 +6,6 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Because there may had occured some conflicts in the way when you did not pushed your changes but someone else did. This way you also have more control.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forking is usefull for getting copy of repository to which you do not have acces for & it gives credit for authors as well. I can use cloning to get copy of a remote repository with remote set. Branches are for making some changes without affecting the main branch. You can use it also to store older version of your program.
