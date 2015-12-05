@@ -1,4 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
-Basically always if I have acces to private & public repos. With privates I can work on something I don't want to share.
-This way I have always backup of my files on server. Same with public ones. For both types however it makes easier working with others.
+Basically always if I have acces to private & public repos. With privates I can work on something I don't want to share. This way I have always backup of my files on server. Same with public ones. For both types however it makes easier working with others.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because there may had occured some conflicts in the way when you did not pushed your changes but someone else did. This way you also have more control.
+
