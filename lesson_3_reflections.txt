@@ -11,4 +11,9 @@ Describe the differences between forks, clones, and branches. When would you use
 Forking is usefull for getting copy of repository to which you do not have acces for & it gives credit for authors as well. I can use cloning to get copy of a remote repository with remote set. Branches are for making some changes without affecting the main branch. You can use it also to store older version of your program.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
+
 You can fetch all changes done on remote & then safely work on your merge offline. Additionaly merging with local copy should be faster.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would have to personally inform others about my pull request & they would have to see the differences on their own.
+
