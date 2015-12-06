@@ -17,3 +17,7 @@ You can fetch all changes done on remote & then safely work on your merge offlin
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would have to personally inform others about my pull request & they would have to see the differences on their own.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Each time I am adding new feature that's not fully completed yet. This also allows others to review my changes easily just before pushing them into production branch.
+Not commiting to separate branch makes sense when I work only by myself at the begining of the project.
